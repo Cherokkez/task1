@@ -1,0 +1,15 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "JS task N1 26.01.17",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cherokkez/task1.git"
+  },
+  "keywords": ["JS task N1"],
+  "author": "Evgeny Prygunov",
+  "license": "ISC"
